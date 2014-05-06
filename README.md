@@ -1,5 +1,7 @@
-EdExcel-Maths
+EdExcel Maths Compact Papers
 =============
+
+All the annoying lines have been removed so these papers are more economical to print!
 
 | C1       |
 | :-------------: |
